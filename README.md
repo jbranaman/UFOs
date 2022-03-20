@@ -18,6 +18,7 @@ Below is an image of the search fields with data provided.
 ## Summary
 ### Drawback of New Design
 The major drawback of this new design is that all information entered has to properly align with the data so if the user does not know what is in the whole dataset then it will be challenging to narrow it down.
+
 ### Recommendations
 One recommendation would be create the search tool to have dropdown options so the user can see what options are available and select instead of having to guess or scroll through all the data.
 
